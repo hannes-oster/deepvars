@@ -53,7 +53,7 @@ tfprobability::install_tfprobability()
 
 Should you run into issues you may have to manually install the
 TensorFlow dependencies. Detailed instructions to this end can be found
-[here](https://tensorflow.rstudio.com/installation/).
+[here](https://tensorflow.rstudio.com/installation/). 
 
 ### Install
 
